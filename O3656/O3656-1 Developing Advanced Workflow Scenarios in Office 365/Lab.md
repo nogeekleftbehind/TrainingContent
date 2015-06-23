@@ -6,7 +6,7 @@ In this lab you will create two workflows for your SharePoint 2013 site that wil
 1. You must have one of the following environments:
   1. An Office 365 tenant or 
   1. An On-premises SharePoint 2013 environment that has been configured & connected to an existing Workflow Manager 1.* farm.
-1. You must have the Office Developer Tools for Visual STudio 2013 version 12.0.31105 installed in Visual Studio 2013.
+1. You must have the Office Developer Tools for Visual Studio 2013 version 12.0.31105 installed in Visual Studio 2013.
 
 ## Exercise 1: Create Sequential Web-Service Enabled Workflow
 *In this exercise you will create a sequential workflow that will lookup a provided user in a remote web service. If it finds a matching user in the remote service it takes the user's information and updates the SharePoint list item.*
